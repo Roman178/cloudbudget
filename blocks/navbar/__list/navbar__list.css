@@ -1,0 +1,13 @@
+.navbar__list {
+  margin: 0;
+  padding: 0;
+  width: 445px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+}

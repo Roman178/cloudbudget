@@ -1,0 +1,6 @@
+.header__top {
+  align-self: stretch;
+  display: flex;
+  padding: 0 168px;
+  justify-content: space-between;
+}

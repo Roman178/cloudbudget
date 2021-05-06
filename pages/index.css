@@ -1,15 +1,26 @@
-.header {
-  background-image: url("../images/Rectangle3.png");
-  background-size: cover;
-  height: 100vh;
-}
-
-.header__overlay {
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(
-    90deg,
-    rgba(213, 32, 71, 0.8) 0%,
-    rgba(238, 61, 27, 0.8) 100%
-  );
-}
+@import url("../blocks/root/root.css");
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__overlay/header__overlay.css");
+@import url("../blocks/header/__top/header__top.css");
+@import url("../blocks/header/__lang-selector/header__lang-selector.css");
+@import url("../blocks/header/__title/header__title.css");
+@import url("../blocks/header/__paragraph/header__paragraph.css");
+@import url("../blocks/header/__lang-btn-wrapper/header__lang-btn-wrapper.css");
+@import url("../blocks/header/__short-lang-name/header__short-lang-name.css");
+@import url("../blocks/header/__arrow-lang/header__arrow-lang.css");
+@import url("../blocks/header/__arrow/header__arrow.css");
+@import url("../blocks/header/__text-wrapper/header__text-wrapper.css");
+@import url("../blocks/logo/logo.css");
+@import url("../blocks/logo/__img/logo__img.css");
+@import url("../blocks/logo/__text/logo__text.css");
+@import url("../blocks/navbar/navbar.css");
+@import url("../blocks/navbar/__list/navbar__list.css");
+@import url("../blocks/navbar/__item/navbar__item.css");
+@import url("../blocks/btn/btn.css");
+@import url("../blocks/btn/_increased/btn_increased.css");
+@import url("../blocks/btn/_bckg-color/btn_bckg-color_white.css");
+@import url("../blocks/btn/_font-color/btn_font-color_scarlet.css");
+@import url("../blocks/video/video.css");
+@import url("../blocks/video/__text-container/video__text-container.css");
+@import url("../blocks/video/__btn-play/video__btn-play.css");
+@import url("../blocks/video/__wrapper-clip/video__wrapper-clip.css");

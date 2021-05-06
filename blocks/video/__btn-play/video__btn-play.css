@@ -1,0 +1,14 @@
+.video__btn-play {
+  padding: 0;
+  margin: 0;
+  width: 66px;
+  height: 66px;
+  background-color: #ed4c5c;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  position: absolute;
+  top: 124px;
+  left: -33px;
+}

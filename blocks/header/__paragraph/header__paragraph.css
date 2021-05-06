@@ -1,0 +1,11 @@
+.header__paragraph {
+  margin: 39px 0;
+  padding: 0 20px 0;
+  box-sizing: border-box;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  color: #fff;
+  width: 540px;
+  text-align: center;
+}
