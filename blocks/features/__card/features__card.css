@@ -1,0 +1,13 @@
+.features__card {
+  font-size: 0;
+  width: 350px;
+  min-height: 350px;
+  /* background-color: rgb(164, 206, 206); */
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.features__card:nth-child(3n) {
+  margin: 0;
+}

@@ -1,0 +1,12 @@
+.technololy__card {
+  margin-right: 30px;
+  width: 255px;
+  min-height: 226px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.technololy__card:nth-child(4n) {
+  margin: 0;
+}

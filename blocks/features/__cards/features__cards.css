@@ -1,0 +1,6 @@
+.features__cards {
+  margin: 63px auto 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

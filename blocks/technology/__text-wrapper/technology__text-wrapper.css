@@ -1,0 +1,8 @@
+.technology__text-wrapper {
+  margin-top: 10px;
+  width: 191px;
+  min-height: 67px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

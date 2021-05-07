@@ -1,3 +1,8 @@
 .video__text-container {
   width: 445px;
+  min-height: 250px;
+  margin-right: 125px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }

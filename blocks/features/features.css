@@ -1,0 +1,7 @@
+.features {
+  padding: 63px 0 124px;
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

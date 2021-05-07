@@ -1,0 +1,14 @@
+.features__text-container {
+  background-color: #fff;
+  width: 293px;
+  min-height: 198px;
+  margin: -93px auto 0;
+  box-shadow: 0px 5px 30px rgb(0 0 0 / 10%);
+  border-radius: 8px;
+  box-sizing: border-box;
+  padding: 33px 20px 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,7 @@
+.technology__cards {
+  margin-top: 52px;
+
+  min-height: 226px;
+  display: flex;
+  justify-content: center;
+}
