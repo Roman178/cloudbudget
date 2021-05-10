@@ -1,2 +1,7 @@
 .app-download__icon {
+  margin-right: 25px;
+}
+
+.app-download__icon:last-of-type {
+  margin: 0;
 }

@@ -20,6 +20,8 @@
 @import url("../blocks/btn/btn.css");
 @import url("../blocks/btn/_increased/btn_increased.css");
 @import url("../blocks/btn/_bckg-color/btn_bckg-color_white.css");
+@import url("../blocks/btn/_bckg-color/btn_bckg-color_red.css");
+
 @import url("../blocks/btn/_font-color/btn_font-color_scarlet.css");
 @import url("../blocks/video/video.css");
 @import url("../blocks/video/__text-container/video__text-container.css");
@@ -50,3 +52,14 @@
 @import url("../blocks/app-download/__img-wrapper/app-download__img-wrapper.css");
 @import url("../blocks/app-download/__img/app-download__img.css");
 @import url("../blocks/app-download/__wrapper/app-download__wrapper.css");
+@import url("../blocks/app-download/__img/_position/app-download__img_position_back-left.css");
+@import url("../blocks/app-download/__img/_position/app-download__img_position_back-right.css");
+@import url("../blocks/white-font/white-font.css");
+@import url("../blocks/contact-us/contact-us.css");
+@import url("../blocks/contact-us/__wrapper/contact-us__wrapper.css");
+@import url("../blocks/form/form.css");
+@import url("../blocks/form/__input/form__input.css");
+@import url("../blocks/form/__name-wrapper/form__name-wrapper.css");
+@import url("../blocks/form/__input/_type/form__input_type_small-left.css");
+@import url("../blocks/form/__input/_type/form__input_type_small-right.css");
+@import url("../blocks/form/__select/form__select.css");

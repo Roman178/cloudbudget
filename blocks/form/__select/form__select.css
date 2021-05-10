@@ -1,0 +1,15 @@
+.form__select {
+  color: rgba(19, 39, 67, 0.5);
+  background-color: white;
+  min-height: 60px;
+  border: 1px solid #333333;
+  border-radius: 6px;
+  padding: 21px 0 20px 31px;
+  box-sizing: border-box;
+  transition: border 0.1s linear;
+}
+
+.form__select:focus {
+  outline: none;
+  border: 2px solid #333333;
+}

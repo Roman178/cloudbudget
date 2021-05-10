@@ -1,2 +1,4 @@
 .app-download__icons {
+  display: flex;
+  align-items: center;
 }

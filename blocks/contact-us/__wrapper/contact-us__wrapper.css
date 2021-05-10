@@ -1,7 +1,8 @@
-.app-download__wrapper {
+.contact-us__wrapper {
+  margin-right: 114px;
+  align-self: flex-start;
   width: 445px;
-  min-height: 267px;
-  margin-right: 125px;
+  min-height: 160px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;

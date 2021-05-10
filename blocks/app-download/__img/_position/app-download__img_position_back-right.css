@@ -1,0 +1,5 @@
+.app-download__img_position_back-right {
+  position: absolute;
+  z-index: 0;
+  right: -44px;
+}

@@ -182,8 +182,8 @@
     </section>
     <section class="app-download">
       <div class="app-download__wrapper">
-        <h2 class="subtitle">Stay focused on saving money</h2>
-        <p class="paragraph">
+        <h2 class="subtitle white-font">Stay focused on saving money</h2>
+        <p class="paragraph white-font">
           It is important to stay focused on saving money in any way you can. We
           help you monitor your spending habits so you can easily spot and cut
           any unnecessary expenses. Simply join today to get started!
@@ -207,12 +207,69 @@
         </div>
       </div>
       <div class="app-download__img-wrapper">
-        <img src="./images/opacity-img1.png" alt="" class="app-download__img" />
-        <img src="./images/opacity-img2.png" alt="" class="app-download__img" />
+        <img
+          src="./images/opacity-img1.png"
+          alt=""
+          class="app-download__img app-download__img_position_back-left"
+        />
+        <img
+          src="./images/opacity-img2.png"
+          alt=""
+          class="app-download__img app-download__img_position_back-right"
+        />
         <img src="./images/main-img-app.png" alt="" class="app-download__img" />
       </div>
     </section>
-    <section class="contact-us"></section>
+    <section class="contact-us">
+      <div class="contact-us__wrapper">
+        <h2 class="subtitle">Contact</h2>
+        <p class="paragraph">
+          Questions or concerns? Just fill out the form below and our support
+          team will get back to you within 24 hours
+        </p>
+      </div>
+      <form class="form" method="POST" action="/api/users">
+        <div class="form__name-wrapper">
+          <label class="form__label" for="first-name"></label>
+          <input
+            class="form__input form__input_type_small-left"
+            type="text"
+            name="firstName"
+            id="first-name"
+            placeholder="First Name"
+          />
+
+          <label class="form__label" for="last-name"></label>
+          <input
+            class="form__input form__input_type_small-right"
+            type="text"
+            name="lastName"
+            id="last-name"
+            placeholder="Last Name"
+          />
+        </div>
+        <label class="form__label" for="phone-number"></label>
+        <input
+          class="form__input"
+          type="tel"
+          name="phoneNumber"
+          id="phone-number"
+          placeholder="Phone Number"
+        />
+        <select class="form__select" name="select">
+          <option class="form__option" value="default" selected disabled hidden>
+            Select Service
+          </option>
+          <option class="form__option" value="value1">Service 1</option>
+          <option class="form__option" value="value2">Service 2</option>
+          <option class="form__option" value="value3">Service 3</option>
+        </select>
+        <!-- <button type="submit">SUBMIT NOW</button> -->
+        <button class="btn btn_increased btn_bckg-color_red" type="button">
+          SUBMIT NOW
+        </button>
+      </form>
+    </section>
     <footer class="footer"></footer>
   </body>
 </html>
