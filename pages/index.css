@@ -1,5 +1,7 @@
 @import url("../blocks/root/root.css");
 @import url("../blocks/text-center/text-center.css");
+@import url("../blocks/hover-white-red/hover-white-red.css");
+@import url("../blocks/hover-filter-brightness/hover-filter-brightness.css");
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__overlay/header__overlay.css");
 @import url("../blocks/header/__top/header__top.css");
@@ -17,11 +19,11 @@
 @import url("../blocks/navbar/navbar.css");
 @import url("../blocks/navbar/__list/navbar__list.css");
 @import url("../blocks/navbar/__item/navbar__item.css");
+@import url("../blocks/navbar/__link/navbar__link.css");
 @import url("../blocks/btn/btn.css");
 @import url("../blocks/btn/_increased/btn_increased.css");
 @import url("../blocks/btn/_bckg-color/btn_bckg-color_white.css");
 @import url("../blocks/btn/_bckg-color/btn_bckg-color_red.css");
-
 @import url("../blocks/btn/_font-color/btn_font-color_scarlet.css");
 @import url("../blocks/video/video.css");
 @import url("../blocks/video/__text-container/video__text-container.css");
@@ -63,3 +65,15 @@
 @import url("../blocks/form/__input/_type/form__input_type_small-left.css");
 @import url("../blocks/form/__input/_type/form__input_type_small-right.css");
 @import url("../blocks/form/__select/form__select.css");
+@import url("../blocks/form/__label/form__label.css");
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__columns/footer__columns.css");
+@import url("../blocks/footer/__services-item/footer__services-item.css");
+@import url("../blocks/footer/__services-list/footer__services-list.css");
+@import url("../blocks/footer/__services-link/footer__services-link.css");
+@import url("../blocks/footer/__contacts-container/footer__contacts-container.css");
+@import url("../blocks/footer/__icon-img/footer__icon-img.css");
+@import url("../blocks/footer/__icon-link/footer__icon-link.css");
+@import url("../blocks/footer/__icons/footer__icons.css");
+@import url("../blocks/footer/__payment-img/footer__payment-img.css");
+@import url("../blocks/footer/__payment-methods/footer__payment-methods.css");

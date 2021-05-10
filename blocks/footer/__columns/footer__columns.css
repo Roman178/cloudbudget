@@ -1,0 +1,9 @@
+.footer__columns {
+  width: 75%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 55px 1fr;
+  grid-auto-flow: column;
+  grid-column-gap: 45px;
+}

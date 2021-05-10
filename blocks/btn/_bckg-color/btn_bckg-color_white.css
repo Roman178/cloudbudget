@@ -1,3 +1,7 @@
 .btn_bckg-color_white {
   background-color: #fff;
 }
+
+/* .btn_bckg-color_white:hover {
+  filter: brightness(0.92);
+} */

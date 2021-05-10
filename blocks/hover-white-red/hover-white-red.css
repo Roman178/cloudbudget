@@ -1,0 +1,8 @@
+.hover-white-red {
+  transition: all 0.2s linear;
+}
+
+.hover-white-red:hover {
+  background-color: #fff;
+  color: #ed4c5c;
+}

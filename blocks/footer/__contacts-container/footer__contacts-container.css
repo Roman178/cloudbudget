@@ -1,0 +1,6 @@
+.footer__contacts-container {
+  padding-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
