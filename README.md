@@ -1,4 +1,4 @@
-# Pet-project (учебный проект): CLOUDBUDGET.
+# Pet-project (учебный проект):CLOUDBUDGET.
 
 ### Deployment
 Проект развернут [здесь](https://roman178.github.io/cloudbudget/).
